@@ -124,3 +124,7 @@
 - Реализовать регистрацию и авторизацию пользователя
 - Проделать операции из родительской задачи(BF-31)
 - Продумать и описать объекты данных
+
+## Ссылки на репозитории проекта:
+- [Back end проекта](https://github.com/Enotello/BiblEmployeBack)
+- [Front end проекта](https://github.com/Enotello/BiblEmployeFront)
